@@ -1,0 +1,156 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+.blogin{
+    color: #96BB7C;
+    font-size: 30px;
+    padding: 2px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    border: none;
+}
+
+.bjoinus{
+    background-color: #96BB7C;
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 8px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#seccion1{
+    background-color: #DDF4FF;
+    padding: 20px;
+}
+
+
+.cajas1{
+    background-color: #DDF4FF;
+    padding: 20px;
+    background-image: url(/img/fondo.PNG);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+
+
+.fondo{
+    display: flex;
+    justify-content: end;
+    object-position: top right;
+}
+.pruebadiv{
+    display: flex;
+    justify-content: right;
+}
+
+.cajas1-1{
+    color: #96BB7C;
+    font-size: 40px;
+}
+
+.cajas1-2{
+    color: #252B42;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 20px 0 20px 0;
+}
+
+.cajas1-3{
+    color: #737373;
+    font-size: 30px;
+    margin: 20px 0 20px 0;
+}
+
+.boton1{
+    background-color: #96BB7C;
+    border-color: #96BB7C;
+    color: #FFFFFF;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.boton2{
+    background-color: #DDF4FF;
+    border-color: #96BB7C;
+    color: #96BB7C;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#seccion2 {
+    display: flex;
+    background-color: #FFFFFF;
+    justify-content: center;
+}
+
+.datos{
+    padding: 30px 70px 30px;
+    text-align: center;
+    background-color: #FFFFFF;
+    flex-basis: 25%;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+.datos::first-line{
+    color: #96BB7C;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+h1{
+    background-color: #FFF2F3;
+    margin-bottom: 0%;
+    padding: 50px;
+    font-size: 50px;
+}
+
+#seccion3{
+    background-color: #FFF2F3;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+.circulo{
+    background-color: #FFF2F3;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    text-align: center;
+    color: #E74040;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.divs{
+    background-color: #FFFFFF;
+    margin-right: 30px;
+    padding: 20px 100px 100px 20px;
+    font-size: 30px;
+    color: #737373;
+}
+
+.divs hr{
+    color: #E74040;
+}
+
+footer{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconos{
+    color: #96BB7C;
+}
